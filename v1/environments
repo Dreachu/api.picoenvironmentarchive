@@ -196,5 +196,23 @@
         "title": "Team Fortress 2",
         "author": "FallenAngel",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/34-file-teamfortress2.apk"
+    },
+    {
+        "id": 35,
+        "title": "Rick and Morty",
+        "author": "Skyrimus",
+        "filePath": "https://neon-khapse-f0e0a7.netlify.app/35-file-RickAndMorty.apk"
+    },
+    {
+        "id": 36,
+        "title": "Cyberpunk Office",
+        "author": "Skyrimus",
+        "filePath": "https://neon-khapse-f0e0a7.netlify.app/36-file-CyberpunkOffice.apk"
+    },
+    {
+        "id": 37,
+        "title": "Dungeon",
+        "author": "Skyrimus",
+        "filePath": "https://neon-khapse-f0e0a7.netlify.app/37-file-Dungeon.apk"
     }
 ]
