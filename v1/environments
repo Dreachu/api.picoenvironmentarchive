@@ -218,33 +218,25 @@
     {
         "id": 38,
         "title": "Rick And Morty Garage",
-        "description": "Rick And Morty Garage Pico Environment",
         "author": "FallenAngel",
-        "primaryImageUrl": "https:\/\/i.postimg.cc\/Nj2rDQrk\/Rick-And-Morty-Garage.jpg",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/38-file-RickAndMortyGarage.apk"
     },
     {
         "id": 39,
         "title": "Quake 1",
-        "description": "Quake 1 Pico Environment",
         "author": "FallenAngel",
-        "primaryImageUrl": "https:\/\/i.postimg.cc\/QNBbwZ5V\/Quake1.jpg",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/39-file-Quake1.apk"
     },
     {
         "id": 40,
         "title": "Family Guy",
-        "description": "Family Guy Pico Environment",
         "author": "FallenAngel",
-        "primaryImageUrl": "https:\/\/i.postimg.cc\/VvTHyYsW\/Family-Guy.jpg",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/40-file-FamilyGuy.apk"
     },
     {
         "id": 41,
         "title": "Rick and Morty TV Room",
-        "description": "Rick and Morty TV Room Pico Environment",
         "author": "FallenAngel",
-        "primaryImageUrl": "https:\/\/i.postimg.cc\/pL78DpGZ\/Rick-And-Morty-TVRoom.jpg",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/41-file-RickAndMortyTVRoom.apk"
     }
 ]
