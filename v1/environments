@@ -242,33 +242,32 @@
     {
         "id": 42,
         "title": "Stargate Room",
-        "description": "Stargate Room Pico Environment",
         "author": "FallenAngel",
-        "primaryImageUrl": "https:\/\/i.postimg.cc\/8cdHMcrp\/Stargate-Room-E.jpg",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/42-file-StargateRoomE.apk"
     },
     {
         "id": 43,
         "title": "Futurama TV Room ",
-        "description": "Futurama TV Room Pico Environment",
         "author": "FallenAngel",
-        "primaryImageUrl": "https:\/\/i.postimg.cc\/Wp9tbjyg\/Futurama-TVRoom.jpg",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/43-file-FuturamaTVRoom.apk"
     },
     {
         "id": 44,
         "title": "Silent Hill 4 Room",
-        "description": "Silent Hill 4 Room Pico Environment",
         "author": "FallenAngel",
-        "primaryImageUrl": "https:\/\/i.postimg.cc\/KYZyM3kz\/Silent-Hill4-Room.jpg",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/44-file-SilentHill4Room.apk"
     },
     {
         "id": 45,
         "title": "Portal GLADOS",
-        "description": "Portal GLADOS Pico Environment",
         "author": "FallenAngel",
-        "primaryImageUrl": "https:\/\/i.postimg.cc\/ZqR4QyTQ\/Portal-GLADOS.jpg",
         "filePath": "https://neon-khapse-f0e0a7.netlify.app/45-file-PortalGLADOS.apk"
+    },
+    {
+        "id": 46,
+        "title": "Bob's Burgers",
+        "author": "FallenAngel",
+        "filePath": "\/uploads\/46-file-BobsBurgers.apk"
     }
+]
 ]
