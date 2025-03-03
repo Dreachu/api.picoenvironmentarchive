@@ -340,5 +340,17 @@
         "title": "Meditation Chamber",
         "author": "Evil-Ash",
         "filePath": "https://clinquant-biscotti-c688c1.netlify.app/58-file-MeditationChamber.apk"
+    },
+    {
+        "id": 59,
+        "title": "Resident Evil 2 Secret Room",
+        "author": "Evil-Ash",
+        "filePath": "https://clinquant-biscotti-c688c1.netlify.app/59-file-RE2-Secret-Room.apk"
+    },
+    {
+        "id": 60,
+        "title": "Resident Evil 2 Gas Station",
+        "author": "Evil-Ash",
+        "https://clinquant-biscotti-c688c1.netlify.app/60-file-RE2-Gas-Station.apk"
     }
 ]
