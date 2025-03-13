@@ -352,5 +352,29 @@
         "title": "Resident Evil 2 Gas Station",
         "author": "Evil-Ash",
         "https://clinquant-biscotti-c688c1.netlify.app/60-file-RE2-Gas-Station.apk"
+    },
+    {
+        "id": 61,
+        "title": "Chucky",
+        "author": "Evil-Ash",
+        "filePath": "https://clinquant-biscotti-c688c1.netlify.app/61-file-chucky.apk"
+    },
+    {
+        "id": 62,
+        "title": "Duke Nukem",
+        "author": "Evil-Ash",
+        "filePath": "https://clinquant-biscotti-c688c1.netlify.app/62-file-dukenukem.apk"
+    },
+    {
+        "id": 63,
+        "title": "Texas Chainsaw Massacre",
+        "author": "Evil-Ash",
+        "filePath": "https://clinquant-biscotti-c688c1.netlify.app/63-file-texaschainsawmassacre.apk"
+    },
+    {
+        "id": 64,
+        "title": "The Thing",
+        "author": "Evil-Ash",
+        "filePath": "https://clinquant-biscotti-c688c1.netlify.app/64-file-thething.apk"
     }
 ]
