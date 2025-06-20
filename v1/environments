@@ -376,5 +376,11 @@
         "title": "The Thing",
         "author": "Evil-Ash",
         "filePath": "https://clinquant-biscotti-c688c1.netlify.app/64-file-thething.apk"
+    },
+{
+        "id": 65,
+        "title": "Steam VR",
+        "author": "Valve",
+        "filePath": "https://clinquant-biscotti-c688c1.netlify.app/65-file-steamvr.apk"
     }
 ]
